@@ -1,2 +1,4 @@
 # hello-world
-Learning how to use Github
+This repo is for learning how to use Github.
+It looks simple enough!
+...I think. 
